@@ -54,20 +54,20 @@ h1{
 }
 
 .button_game{
-    width:30%;
+    width:25%;
     border-radius:100%;
     cursor:pointer;
 }
 
 .sign_game{
-    width:30%;
+    width:25%;
     margin:auto;
     display:none;
     border-radius:100%;
 }
 
 #button_surprise{
-    width:30%;
+    width:25%;
     margin:auto;
     display:block;
     border:1px solid black;
